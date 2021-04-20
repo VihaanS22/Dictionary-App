@@ -1,11 +1,18 @@
-# Sample Snack app
+# THE TREASURE HUNTER:
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+**Hello All...Vihaan here. Hope you are enjoying all my apps!!! As you know I am a creative guy and code lot's of helpful apps and amazing games, I have therefore coded a treasure hunter dictionary for my friends...This dictionary is only for some important words and some info about these words in the treasure hunter game so it has a limited number of words. I am working on adding more words. For those of you who didn't play the Treasure Hunt, here are a list of words which can be looked upon in the dictionary...Thankyou for all your love and support guys, really appreciate!!**
+***LOOK BELOW FOR THE WORDS TO SEARCH IN 'THE TREASURE HUNTER' : ***
+**
+THE 
+INDIA
+EXTERNALLY
+HELLO
+WELCOME
+ALMOST
+SHE
+TREE
+WONDERFUL
+ORDINARY
+**
+# AN EXCLUSIVELY GOOD WORD IS ADDED IN THE DICTIONARY IT MAY BE HELPFUL DURING THE TREASURE HUNT.. #
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
